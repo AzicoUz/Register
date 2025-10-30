@@ -9,7 +9,7 @@ Loyiha orqali siz **frontend asoslarini**, **DOM manipulyatsiyasi**, **dizayn uy
 
 ## 📸 Loyiha ko‘rinishi
 
-![Loyiha rasmi bu yerda bo‘ladi – Project preview will appear here](./api/picture.PNG)
+![Loyiha rasmi bu yerda bo‘ladi – Project preview will appear here](./api/picture.png)
 
 ---
 
@@ -80,7 +80,7 @@ It demonstrates key frontend principles like **DOM manipulation**, **design cons
 
 ## 📸 Project Preview
 
-![Project Screenshot will appear here – Loyiha rasmi bu yerda bo‘ladi](./api/picture.PNG)
+![Project Screenshot will appear here – Loyiha rasmi bu yerda bo‘ladi](./api/picture.png)
 
 ---
 
